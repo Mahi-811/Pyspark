@@ -40,7 +40,5 @@ This repository is meant for **learning and practice**.
 - **Apache Spark**
 - **Databricks Notebooks**
 
----
 
-## 📂 Repository Structure
 
